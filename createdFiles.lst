@@ -1,0 +1,10 @@
+skeleton\WeatherApiJsonResponse.class
+skeleton\WeatherApiJsonWeather.class
+skeleton\convertUnixTimeFormat.class
+skeleton\WeatherAPI_For_Main_Weather.class
+skeleton\WeatherAPI_For_Coordinates.class
+skeleton\WeatherApiJsonSys.class
+skeleton\WeatherApiJsonWind.class
+skeleton\WeatherApiJsonMain.class
+skeleton\WeatherApiResponse.class
+weather\WeatherRetriever.class
